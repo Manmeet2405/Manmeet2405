@@ -2,9 +2,9 @@
 
 ### Software Developer • AI Engineer • Game Developer
 
-I build **AI-powered applications, backend systems, full-stack web applications, automation workflows, and software that solves real problems.**
+I build **AI-powered applications, backend systems, full-stack web applications, 2D games, automation workflows, and software that solves real problems.**
 
-Exploring **AI, systems development, automation, and the intersection of technology and creativity.** 🚀
+Working across **AI, backend development, game development, automation, and the intersection of technology and creativity.** 🚀
 
 ---
 
