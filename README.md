@@ -1,4 +1,4 @@
-## Hey, I'm Manmeet 👋
+# Hey, I'm Manmeet 👋
 
 ### Software Developer • AI Engineer • Game Developer
 
