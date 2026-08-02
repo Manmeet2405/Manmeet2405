@@ -1,3 +1,12 @@
+# Hey, I'm Manmeet 👋
+
+### Software Developer • AI Engineer • Game Developer
+
+I build **AI-powered applications, backend systems, full-stack web applications, automation workflows, and software that solves real problems.**
+
+Exploring **AI, systems development, automation, and the intersection of technology and creativity.** 🚀
+
+---
 
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manmeet-singh24)
