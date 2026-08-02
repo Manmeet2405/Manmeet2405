@@ -43,6 +43,9 @@ Working across **AI, backend development, game development, automation, and the 
 ![](https://streak-stats.demolab.com/?user=Manmeet2405&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Manmeet2405&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+### Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
