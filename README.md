@@ -6,6 +6,8 @@ I build **AI-powered applications, backend systems, full-stack web applications,
 
 Working across **AI, backend development, game development, automation, and the intersection of technology and creativity.** 🚀
 
+📫 **Let's connect:** [manmeet2405@gmail.com](mailto:manmeet2405@gmail.com)
+
 ---
 
 ## 🌐 Socials: 
